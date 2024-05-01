@@ -1,0 +1,12 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Work+Sans:wght@300&display=swap');
+.App
+{
+  box-sizing: border-box;
+  height: 100vh;
+  color:black;
+  background: url("./images/chat.jpg") center no-repeat ;
+  background-size: cover;
+
+
+}

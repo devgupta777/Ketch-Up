@@ -1,0 +1,17 @@
+.messages{
+    display: flex;
+    flex-direction: column;
+    overflow-y: auto;
+   
+}
+
+
+.messages ::-webkit-scrollbar {
+    display: none;
+  }
+  
+  /* Hide scrollbar for IE, Edge and Firefox */
+  .messages {
+    -ms-overflow-style: none;  /* IE and Edge */
+    scrollbar-width: none;  /* Firefox */
+  }
